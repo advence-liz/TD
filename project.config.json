@@ -1,0 +1,13 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wx6c77bd344f3db523",
+	"projectname": "TD",
+	"compileType": "miniprogram",
+	"condition": {}
+}
